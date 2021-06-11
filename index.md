@@ -36,3 +36,39 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+##  likeyou
+
+> this is quote
+
+* red
+* blue
+
+> ????
+
+1. first
+
+```
+ main()
+ 
+```
+
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
+\end{vmatrix}
+$$
+
+you can cite this[^1]
+
+---
+
+
+
+this is [an example](http://example.com/ "Title") for you
+
+
+
+[^1]: 1927
